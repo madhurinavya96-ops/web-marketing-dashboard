@@ -1,29 +1,50 @@
-#web-marketing-dashboard
-Web marketing analytics dashboard built using Power BI,sql and excel
+# 📊 Web Marketing Analytics Dashboard
 
-#3Project Overview
-This project analyzes web marketing performance to understand customer engagement, traffic trends, campaign effectiveness, and conversion performance.
+A comprehensive Web Marketing Analytics Dashboard developed using **Power BI, SQL, and Excel** to analyze website performance, customer engagement, campaign effectiveness, and conversion trends. The dashboard provides actionable insights to support data-driven marketing decisions.
 
-##Tools Used:
-Power BI
-Excel
-SQL
-Data Modelling
-DAX
-##Key Analysis
---Website traffic analysis
---Campaign performance tracking
---Customer engagement analysis
---Conversion rate analysis
---Marketing KPI monitoring
-##Dashboard Features
---KPI cards
---Trend analysis
---Campaign comparison
---Customer segmentation
---Interactive filters
---Dashboard preview
-##Business Insights
---Identified high-performing campaigns
---Analysed customer behaviour trends
---Improved understanding of marketing performance
+---
+
+## 📌 Project Overview
+
+This project analyzes web marketing performance by tracking key metrics such as website traffic, campaign performance, customer engagement, and conversion rates. Interactive visualizations help identify trends, measure marketing effectiveness, and support strategic business decisions.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Power BI
+- SQL
+- Microsoft Excel
+- Data Modelling
+- DAX
+
+---
+
+## 📈 Key Analysis
+
+- Website Traffic Analysis
+- Marketing Campaign Performance
+- Customer Engagement Analysis
+- Conversion Rate Analysis
+- Marketing KPI Monitoring
+
+---
+
+## 📊 Dashboard Features
+
+- KPI Cards
+- Traffic Trend Analysis
+- Campaign Performance Comparison
+- Customer Segmentation
+- Interactive Filters and Slicers
+- Dynamic Visualizations
+
+---
+
+## 💡 Business Insights
+
+- Identified high-performing marketing campaigns.
+- Analyzed customer engagement and behavior trends.
+- Measured website traffic and conversion performance.
+- Supported data-driven marketing decision-making.
+- Highlighted opportunities to improve campaign effectiveness.
